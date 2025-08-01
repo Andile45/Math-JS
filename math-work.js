@@ -4,9 +4,9 @@ const num2 = 12.345;
 const num3 = -8.5;
 
 
-console.log(Math.round(num1,5))
-console.log(Math.round(num2,12))
-console.log(Math.round(num3,-8))
+console.log(Math.round(num1))
+console.log(Math.floor(num2))
+console.log(Math.ceil(num3))
 
 //Excercise 2 
 
